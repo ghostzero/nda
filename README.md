@@ -1,5 +1,10 @@
 # NDA Plugin for IntelliJ-based IDEs
 
+<a href="https://github.com/ghostzero/nda"><img src="https://img.shields.io/github/license/ghostzero/nda" alt="License"></a>
+<a href="https://ghostzero.dev/discord"><img src="https://discordapp.com/api/guilds/590942233126240261/embed.png?style=shield" alt="Discord"></a>
+
+<a href="https://plugins.jetbrains.com/plugin/19433-nda"><img src="https://cdn.maid.sh/ghostzero/get-from-marketplace.png"></a>
+
 A simple plugin that allows you to prevent opening files like `.env`.
 
 ## Getting Started
